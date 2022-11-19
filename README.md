@@ -8,7 +8,7 @@ Before you can run this client, you will need to be running the server side whic
 
 ## Final Product
 
-!["screenshot description"](#)
+!["screenshot description"](/Situ2000/snake-client/Terminal-to-control.png)
 !["screenshot description"](#)
 
 
@@ -16,4 +16,5 @@ Before you can run this client, you will need to be running the server side whic
 
 - Follow steps inside the snek server repo to run the server side.
 - Run the development snake client using the `node play.js` command.
-- Press 'w' key to move up, 'a' to move left, 's' to move down, and 'd' to move left.
+- Press 'w' key to move snake up, 'a' to move left, 's' to move down, and 'd' to move left.
+- Enjoy and have fun!
