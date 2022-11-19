@@ -8,8 +8,8 @@ Before you can run this client, you will need to be running the server side whic
 
 ## Final Product
 
-!["Terminal to send commands"](/snake-client/Terminal-to-control.png)
-!["Terminal to show movements"](#)
+!["Terminal to send commands"](/Terminal-To-Control.png)
+!["Terminal to show movements"](/Terminal-To-Show.png)
 
 
 ## Getting Started
