@@ -11,6 +11,11 @@ const connect = function () {
   conn.on("connect", () => {
     conn.write("Name: YS");
   });
+
+  // make the snake to move up when connected
+  // conn.on("connect", () => {
+  //   conn.write("Move: up");
+  // });
   
   // print a message when the connection is successfully established
   conn.on("connect", () => {
