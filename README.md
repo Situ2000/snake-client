@@ -8,8 +8,8 @@ Before you can run this client, you will need to be running the server side whic
 
 ## Final Product
 
-!["screenshot description"](/Situ2000/snake-client/Terminal-to-control.png)
-!["screenshot description"](#)
+!["Terminal to send commands"](/snake-client/Terminal-to-control.png)
+!["Terminal to show movements"](#)
 
 
 ## Getting Started
