@@ -23,7 +23,7 @@ const connect = function () {
     console.log("Successfully connected to game server");
   });
 
-  // handle incoming data and console.log it for the player
+  // handle the incoming data and console.log it for the player
   conn.on("data", (data) => {
     console.log(data);
   });
